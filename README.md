@@ -14,8 +14,6 @@ A small github repo used as an example for the coding workshop!
 To use this framework you will need to:
 
 
-
-
 1. Replace my email (samuelreay@gmail.com) with your own.
 2. Replace all instances of samreay & samuelreay, with your own username (case insensitive replace).
 3. Replace my name (Samuel Hinton) with yours (used in the doc and license).
@@ -23,3 +21,6 @@ To use this framework you will need to:
 4. Enable Travis, CodeCov and Codacy. (You may need to make a commit and push after enabling travis to kick off a build.)
 5. Update the codacy badge in this readme because it uses more than username/repo (get the badge from codacy project settings).
 6. Set an environment variable in travis called GITHUB_API_KEY with a Personal Access Token to commit Sphinx html to public repos.
+
+Steps for how this project was set up can be found in the `Presentation.pdf` file in this repository, which was 
+presented in December 2017 for the CAASTRO Code Workshops.
